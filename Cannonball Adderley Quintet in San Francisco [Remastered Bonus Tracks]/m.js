@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 A Few Words by Cannonball... And This Here.mp3";		
+f[2]	= "02 Spontaneous Combustion.mp3";		
+f[3]	= "03 Hi-Fly.mp3";		
+f[4]	= "04 You Got It.mp3";		
+f[5]	= "05 Bohemia After Dark A.K.A. Birdland After Dark.mp3";		
+f[6]	= "06 Straight, No Chaser [-].mp3";		
+f[7]	= "07 There Here [_][-][Alternate Take].mp3";		
+f[8]	= "08 You Got It [_][-][Alternate Take].mp3";		
